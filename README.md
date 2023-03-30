@@ -10,4 +10,4 @@ Sprint Retrospective de 3 Horas.
 
 Definindo a sequência.
 
-1 Sprint > Product Backlog > Sprint Planning > Sprint Backlog > Daily Scrum > Sprint Review > Sprint Retrospectie > incremento.
+1 Sprint > Product Backlog > Sprint Planning > Sprint Backlog > Daily Scrum > Incremento > Sprint Review > Sprint Retrospectie.
